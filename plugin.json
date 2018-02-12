@@ -1,20 +1,20 @@
 {
   "version": "1.0.0",
   "name": "Yatego",
-  "description": "Plugin für Yatego. Um Yatego in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Yatego nötig.",
+  "description": "Um Yatego in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Yatego nötig.",
   "namespace": "MultiChannelYatego",
   "pluginIcon": "icon_plugin_xs.png",
   "author": "plentymarkets GmbH",
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Plugin für Yatego. Um Yatego in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Yatego nötig.",
-    "en": "Plugin for the market Yatego. A Yatego seller account is mandatory for setting up Yatego in plentymarkets."
+    "de": "Der Marktplatz Yatego ist in plentymarkets 7 bereits integriert.. Um Yatego in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Yatego nötig.",
+    "en": "Yatego is already integrated into your plentymarkets 7 system. A Yatego seller account is mandatory for setting up Yatego in plentymarkets."
   },
   "license": "AGPL-3.0",
   "categories": [
     3523
   ],
   "price": 0.00,
-  "type": "general"
+  "type": "info"
 }
