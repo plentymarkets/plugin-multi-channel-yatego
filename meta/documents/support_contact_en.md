@@ -4,7 +4,7 @@ https://www.plentymarkets.eu/
  
 ## Email
  
-support@plentymarkets.com
+<a href="mailto:support@plentymarkets.com">support@plentymarkets.com</a>
 
 ## Manual
 
