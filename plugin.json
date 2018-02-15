@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz Yatego ist in plentymarkets 7 bereits integriert.. Um Yatego in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Yatego nötig.",
-    "en": "Yatego is already integrated into your plentymarkets 7 system. A Yatego seller account is mandatory for setting up Yatego in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes Yatego wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Yatego zu listen. Die Schnittstelle zu Yatego ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace Yatego enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on Yatego. The interface to Yatego is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
